@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AmesPU Pin=R12-1
+Removed Pin From Net: NetName=Reference Pin=R17-1
+Added Pin To Net: NetName=Reference Pin=R12-1
+Added Pin To Net: NetName=AmesPU Pin=R17-1

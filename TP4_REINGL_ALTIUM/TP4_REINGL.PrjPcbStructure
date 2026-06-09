@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=ES_PRJ_6C_2L_2026.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=ES_PRJ_6C_2L_2026.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=ES_PRJ_6C_2L_2026.SchDoc|Designator=Mosfter_driver|SchDesignator=Mosfter_driver|FileName=MOSFTET_Driver_block.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=MOSFTET_Driver_block.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=ES_PRJ_6C_2L_2026.SchDoc|Designator=regulateur_de_tension|SchDesignator=regulateur_de_tension|FileName=régulateur.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=régulateur.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

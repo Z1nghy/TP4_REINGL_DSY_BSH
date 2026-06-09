@@ -1,0 +1,122 @@
+Change Component Designator: OldDesignator=TP? NewDesignator=TP12
+Change Component Designator: OldDesignator=TP? NewDesignator=TP13
+Change Component Designator: OldDesignator=TP? NewDesignator=TP14
+Change Component Designator: OldDesignator=TP? NewDesignator=TP15
+Added Component: Designator=C10(CAPC2012X08M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "C2012X7R1H104K085AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-747862"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Condensateurs ceramique"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0805_C 100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPC2012X08M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "C2012X7R1H104K085AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-747862"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Condensateurs ceramique"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0805_C 100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=G1(OSC60X35X10)
+Add component (AddParameter): Name = "Category"; Value = "IntegratedCircuits"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Farnell Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "ILCX08-JH5F18-8.000MHZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-881279"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Horloges"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3572991"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "±30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-20°C to +70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TAC_Contact_Prog
+Added Component: Designator=S1(TE_1825910-6)
+Add component (AddParameter): Name = "Category"; Value = "Electromechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "1825910-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-638027"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Commutateurs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Distrelec AG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "135-66-547"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.1642"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-35°C to +85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1P1T-P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "24V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OSC1 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=OSC2 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=G1-1
+Added Pin To Net: NetName=OSC1 Pin=G1-2
+Added Pin To Net: NetName=GND Pin=G1-3
+Added Pin To Net: NetName=OSC2 Pin=G1-4
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Added Pin To Net: NetName=GND Pin=S1-13
+Added Pin To Net: NetName=GND Pin=S1-13
+Added Pin To Net: NetName=Reset Pin=S1-14
+Added Pin To Net: NetName=Reset Pin=S1-14
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-12
+Add Pin To Net: Unknown Pin: Pin U2-13
+Added Member To Class: ClassName=MCU Member=Component C10 100nF
+Added Member To Class: ClassName=MCU Member=Component C11 100nF
+Added Member To Class: ClassName=MCU Member=Component G1 8MHz
+Add Class Member: Failed to add class member : Component J3 76384-306LF
+Added Member To Class: ClassName=MCU Member=Component S1 1P1T-P
+Added Member To Class: ClassName=ES_PRJ_6C_2L_2026 Member=Component TP13 5011
+Added Member To Class: ClassName=ES_PRJ_6C_2L_2026 Member=Component TP14 5011
+Added Member To Class: ClassName=ES_PRJ_6C_2L_2026 Member=Component TP15 5011
+Add Class Member: Failed to add class member : Component U1 IR21844S
+Add Class Member: Failed to add class member : Component U2 IR21844S

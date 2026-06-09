@@ -1,0 +1,72 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\TP4_REINGL\ES_PRJ_6C_2L_2026.PcbDoc
+Date     : 05.05.2026
+Time     : 16:07:37
+
+Processing Rule : Clearance Constraint (Gap=0.151mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=1.5mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.175mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.175mm) (((ObjectKind = 'Pad') OR (ObjectKind = 'Via')) And (Layer = 'MultiLayer') And (HoleDiameter > AsMM(0.45)))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.175mm) (((ObjectKind = 'Pad') OR (ObjectKind = 'Via')) And (Layer = 'MultiLayer') And (HoleDiameter <= AsMM(0.45)))
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.25mm) (Max=10mm) (All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.35mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.08mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.2mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.171mm < 0.2mm) Between Arc (13.612mm,45.9mm) on Top Overlay And Pad R13-1(14.342mm,46.948mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.171mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.157mm < 0.2mm) Between Arc (13.705mm,28.1mm) on Top Overlay And Pad R14-1(14.239mm,29.201mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.157mm]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=0.2mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.197mm < 0.2mm) Between Text "C10" (39.854mm,30.565mm) on Top Overlay And Track (39.885mm,30.141mm)(43.885mm,30.141mm) on Top Overlay Silk Text to Silk Clearance [0.197mm]
+   Violation between Silk To Silk Clearance Constraint: (0.07mm < 0.2mm) Between Text "C11" (39.981mm,15.198mm) on Top Overlay And Track (39.758mm,17.019mm)(43.758mm,17.019mm) on Top Overlay Silk Text to Silk Clearance [0.07mm]
+   Violation between Silk To Silk Clearance Constraint: (0.187mm < 0.2mm) Between Text "C13" (106.402mm,42.63mm) on Top Overlay And Track (105.988mm,42.292mm)(105.988mm,44.492mm) on Top Overlay Silk Text to Silk Clearance [0.187mm]
+   Violation between Silk To Silk Clearance Constraint: (0.104mm < 0.2mm) Between Text "G1" (37.186mm,20.151mm) on Top Overlay And Track (39.549mm,19.943mm)(39.549mm,27.343mm) on Top Overlay Silk Text to Silk Clearance [0.104mm]
+   Violation between Silk To Silk Clearance Constraint: (0.164mm < 0.2mm) Between Text "G1" (37.186mm,20.151mm) on Top Overlay And Track (39.549mm,19.943mm)(44.349mm,19.943mm) on Top Overlay Silk Text to Silk Clearance [0.164mm]
+   Violation between Silk To Silk Clearance Constraint: (0.1992mm (7.8444mil) < 0.2mm (7.874mil)) Between Text "U1" (76.302mm,41.868mm) on Top Overlay And Track (76.728mm,39.025mm)(76.728mm,42.425mm) on Top Overlay Silk Text to Silk Clearance [0.199mm]
+   Violation between Silk To Silk Clearance Constraint: (0.1992mm (7.8444mil) < 0.2mm (7.874mil)) Between Text "U1" (76.302mm,41.868mm) on Top Overlay And Track (76.728mm,42.425mm)(85.528mm,42.425mm) on Top Overlay Silk Text to Silk Clearance [0.199mm]
+Rule Violations :7
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.25mm, Vertical Gap = 0.25mm ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25mm) (Prefered=12.5mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 9
+Waived Violations : 0
+Time Elapsed        : 00:00:01

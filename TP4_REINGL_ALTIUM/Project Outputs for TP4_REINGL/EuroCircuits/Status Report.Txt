@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ES_PRJ_6C_2L_2026.PcbDoc]
+   Generated File[ES_PRJ_6C_2L_2026.TXT]
+   Generated File[ES_PRJ_6C_2L_2026.LDP]
+   Generated File[ES_PRJ_6C_2L_2026.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:53:37 On 05.05.2026

@@ -1,0 +1,62 @@
+Added Component: Designator=J1(SULLINS_SBH11-PBPC-D07-ST-BK)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SBH11-PBPC-D07-ST-BK/Sullins%20Connector%20Solutions/view-part/229418/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SBH11-PBPC-D07-ST-BK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SBH11-PBPC-D07-ST-BK/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SBH11-PBPC-D07-ST-BK/Sullins%20Connector%20Solutions/view-part/229418/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(SULLINS_SFH11-PBPC-D07-ST-BK)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SFH11-PBPC-D07-ST-BK/Sullins%20Connector%20Solutions/view-part/851415/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SFH11-PBPC-D07-ST-BK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SFH11-PBPC-D07-ST-BK/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SFH11-PBPC-D07-ST-BK/Sullins%20Connector%20Solutions/view-part/851415/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(SULLINS_SBH11-PBPC-D07-ST-BK)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SBH11-PBPC-D07-ST-BK/Sullins%20Connector%20Solutions/view-part/229418/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sullins Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SBH11-PBPC-D07-ST-BK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SBH11-PBPC-D07-ST-BK/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SBH11-PBPC-D07-ST-BK/Sullins%20Connector%20Solutions/view-part/229418/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vmot+ Pin=J1-3
+Added Pin To Net: NetName=Vmot- Pin=J1-5
+Added Pin To Net: NetName=Reference Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=PWM1a Pin=J1-11
+Added Pin To Net: NetName=PWM2a Pin=J1-12
+Added Pin To Net: NetName=PWM1b Pin=J1-13
+Added Pin To Net: NetName=PWM2b Pin=J1-14
+Added Pin To Net: NetName=+Vdc Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=-Vdc Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=+15V Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=-15V Pin=J2-7
+Added Pin To Net: NetName=GND Pin=J2-8
+Added Pin To Net: NetName=+3.3V Pin=J2-9
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=+5V Pin=J2-11
+Added Pin To Net: NetName=GND Pin=J2-12
+Added Pin To Net: NetName=ImesPU Pin=J3-4
+Added Pin To Net: NetName=WmesPU Pin=J3-6
+Added Pin To Net: NetName=AmesPU Pin=J3-8
+Added Pin To Net: NetName=Reference Pin=J3-9
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=PWM1a Pin=J3-11
+Added Pin To Net: NetName=PWM2a Pin=J3-12
+Added Pin To Net: NetName=PWM1b Pin=J3-13
+Added Pin To Net: NetName=PWM2b Pin=J3-14
+Added Member To Class: ClassName=ES_PRJ_6C_2L_2026 Member=Component J1 SBH11-PBPC-D07-ST-BK
+Added Member To Class: ClassName=ES_PRJ_6C_2L_2026 Member=Component J2 SFH11-PBPC-D07-ST-BK
+Added Member To Class: ClassName=ES_PRJ_6C_2L_2026 Member=Component J3 SBH11-PBPC-D07-ST-BK

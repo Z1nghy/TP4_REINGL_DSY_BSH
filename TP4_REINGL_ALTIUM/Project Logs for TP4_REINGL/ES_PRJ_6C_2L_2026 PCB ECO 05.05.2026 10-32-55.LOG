@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=-15V Pin=C15-1
+Removed Pin From Net: NetName=-15V Pin=C16-1
+Added Component: Designator=C19(CAPC1608X08M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "NULL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "CGA3E2X7R1H104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-338083"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "NULL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Condensateurs ceramique"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0603_C 100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "NULL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAPC1608X08M)
+Add component (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "NULL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Number"; Value = "CGA3E2X7R1H104K080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-338083"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "NULL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Condensateurs ceramique"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0603_C 100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.0100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoeff"; Value = "NULL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=-15V Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=-15V Pin=C20-2
+Added Member To Class: ClassName=regulateur_de_tension Member=Component C19 100nF
+Added Member To Class: ClassName=regulateur_de_tension Member=Component C20 100nF

@@ -1,0 +1,28 @@
+Added Component: Designator=M1(MECH-UHD340)
+Add component (AddParameter): Name = "Category"; Value = "Others"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-491366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Mecaniques"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.4"; VariantName = "[No Variations]"
+Added Component: Designator=M2(MECH-UHD340)
+Add component (AddParameter): Name = "Category"; Value = "Others"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-491366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Mecaniques"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.4"; VariantName = "[No Variations]"
+Added Component: Designator=M3(MECH-UHD340)
+Add component (AddParameter): Name = "Category"; Value = "Others"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-491366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Mecaniques"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.4"; VariantName = "[No Variations]"
+Added Component: Designator=M4(MECH-UHD340)
+Add component (AddParameter): Name = "Category"; Value = "Others"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IsStocked"; Value = "False"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PN-491366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubCategory"; Value = "Mecaniques"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.4"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MCU Member=Component M1 3.4
+Added Member To Class: ClassName=MCU Member=Component M2 3.4
+Added Member To Class: ClassName=MCU Member=Component M3 3.4
+Added Member To Class: ClassName=MCU Member=Component M4 3.4

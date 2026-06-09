@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=U4-5
+Removed Pin From Net: NetName=NetTP6_1 Pin=U7-1
+Removed Pin From Net: NetName=NetTP6_1 Pin=U7-2
+Removed Pin From Net: NetName=NetR18_1 Pin=U7-3
+Removed Pin From Net: NetName=GND Pin=U7-4
+Removed Pin From Net: NetName=GND Pin=U7-5
+Removed Pin From Net: NetName=+3.3V Pin=U7-8
+Removed Member From Class: ClassName=regulateur_de_tension Member=U7
+Added Pin To Net: NetName=NetR18_1 Pin=U4-5
+Added Pin To Net: NetName=NetTP6_1 Pin=U4-6
+Added Pin To Net: NetName=NetTP6_1 Pin=U4-7

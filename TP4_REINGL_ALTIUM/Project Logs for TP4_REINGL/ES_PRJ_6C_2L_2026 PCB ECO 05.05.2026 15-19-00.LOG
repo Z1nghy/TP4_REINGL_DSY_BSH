@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetR13_1 Pin=U3-1
+Removed Pin From Net: NetName=NetR11_2 Pin=U3-2
+Removed Pin From Net: NetName=NetR7_2 Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U3-4
+Removed Pin From Net: NetName=+3.3V Pin=U3-8
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Added Pin To Net: NetName=NetR13_1 Pin=U3-1
+Added Pin To Net: NetName=NetR11_2 Pin=U3-2
+Added Pin To Net: NetName=NetR7_2 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=+3.3V Pin=U3-8
+Added Member To Class: ClassName=regulateur_de_tension Member=Component U3 LM6132BIMX/NOPB
